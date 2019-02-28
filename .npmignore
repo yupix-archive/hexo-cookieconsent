@@ -1,0 +1,6 @@
+node_modules/
+.idea
+.DS_Store
+.nvmrc
+.gitlab-ci.yml
+.env

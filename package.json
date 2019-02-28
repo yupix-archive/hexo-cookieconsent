@@ -1,0 +1,38 @@
+{
+  "name": "hexo-cookieconsent",
+  "version": "1.0.0",
+  "description": "A hexo plugin for quickly adding the https://github.com/insites/cookieconsent/ lightweight JavaScript plugin for alerting users about the use of cookies on your website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Yay: no tests!\"",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/buzzcat/hexo-cookieconsent.git"
+  },
+  "keywords": [
+    "cookieconsent",
+    "hexo",
+    "gdpr"
+  ],
+  "author": "Scott Adams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/buzzcat/hexo-cookieconsent/issues"
+  },
+  "homepage": "https://gitlab.com/buzzcat/hexo-cookieconsent#readme",
+  "bundleDependencies": false,
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "cheerio": "^1.0.0-rc.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.14.1",
+    "eslint-config-hexo": "^3.0.0",
+    "hexo": "^3.8.0"
+  },
+  "directories": {
+    "lib": "./lib"
+  }
+}
