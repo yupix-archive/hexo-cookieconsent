@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com/buzzcat/hexo-cookieconsent.git"
+    "url": "git+ssh://git@github.com:yupix/hexo-cookieconsent.git"
   },
   "keywords": [
     "cookieconsent",
@@ -19,9 +19,9 @@
   "author": "Scott Adams",
   "license": "MIT",
   "bugs": {
-    "url": "https://gitlab.com/buzzcat/hexo-cookieconsent/issues"
+    "url": "https://github.com/yupix/hexo-cookieconsent/issues"
   },
-  "homepage": "https://gitlab.com/buzzcat/hexo-cookieconsent#readme",
+  "homepage": "https://github.com/yupix/hexo-cookieconsent#readme",
   "bundleDependencies": false,
   "dependencies": {
     "bluebird": "^3.5.3",
