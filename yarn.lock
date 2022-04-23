@@ -526,7 +526,7 @@ escape-string-regexp@^4.0.0:
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-4.0.0.tgz#14ba83a5d373e3d311e5afca29cf5bfad965bf34"
   integrity sha512-TtpcNJ3XAzx3Gq8sWRzJaVajRs0uVxA2YAkdb1jm2YkPz4G6egUFAyA3n5vtEIZefPk5Wa4UXbKuS5fKkJWdgA==
 
-eslint-config-hexo@^4.2.0:
+eslint-config-hexo@4.2.0:
   version "4.2.0"
   resolved "https://registry.yarnpkg.com/eslint-config-hexo/-/eslint-config-hexo-4.2.0.tgz#5935457f5c9b1135be755ac8b8a431e0ffb3c795"
   integrity sha512-P/ztWEcshpv50YlbfE3ZpxN4cYC/QRibjVlzHvtuB39zvwRq/yOPGtgtwNIo+kTHPU4obotqSu7GB9qLJ+dsmg==
@@ -587,7 +587,7 @@ eslint-visitor-keys@^2.0.0:
   resolved "https://registry.yarnpkg.com/eslint-visitor-keys/-/eslint-visitor-keys-2.1.0.tgz#f65328259305927392c938ed44eb0a5c9b2bd303"
   integrity sha512-0rSmRBzXgDzIsD6mGdJgevzgezI534Cer5L/vyMX0kHzT/jiB43jRhd9YUlMGYLQy2zprNmoT8qasCGtY+QaKw==
 
-eslint@^7.32.0:
+eslint@7.32.0:
   version "7.32.0"
   resolved "https://registry.yarnpkg.com/eslint/-/eslint-7.32.0.tgz#c6d328a14be3fb08c8d1d21e12c02fdb7a2a812d"
   integrity sha512-VHZ8gX+EDfz+97jGcgyGCyRia/dPOd6Xh9yPv8Bl1+SoaIwD+a/vlrOmGRUyOYu7MwUhc7CxqeaDZU13S4+EpA==
@@ -889,7 +889,7 @@ hexo-util@^2.0.0, hexo-util@^2.6.0:
     prismjs "^1.17.1"
     strip-indent "^3.0.0"
 
-hexo@^6.1.0:
+hexo@6.1.0:
   version "6.1.0"
   resolved "https://registry.yarnpkg.com/hexo/-/hexo-6.1.0.tgz#627d44997172235f22de13e05786281753fa2fe6"
   integrity sha512-TeV2cN61CD2C1GKczJRR3tdZhR3JUQi8wtS4eIgkDOeDYWTmovPoSCcc8jvh42D3fehOPp6E81fTeyjh39QWtA==
